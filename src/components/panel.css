@@ -1,0 +1,12 @@
+.ovl {
+  opacity: 0;
+  transition: 0.75s;
+}
+.ovl:hover {
+  opacity: 1;
+  background: rgb(0, 0, 0, 0.75);
+}
+.info-block {
+  height: 300px;
+  overflow: auto;
+}
